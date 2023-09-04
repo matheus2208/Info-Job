@@ -3,7 +3,7 @@ Trabalhos de Informática
 
 
 <p align="center">
-<img src="https://www.flaticon.com/free-icon/computer_11513321"/>
+<img src="https://th.bing.com/th/id/OIP.uPorqYq6ft-IhMe6SFdnvwHaE8?pid=ImgDet&rs=1"/>
 </p>
 
 
