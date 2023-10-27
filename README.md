@@ -14,4 +14,4 @@ Trabalhos de Informática
 
 * [Desafio Power BI](https://1drv.ms/u/s!AgDGdi_D0XjqgUEHP6l6Gi5FdRue?e=U22Ewk)
 
-[Criar APP](https://www.loom.com/share/a913ac45a6ad4698ae5a4bffeb5d17c7)
+*  [Criar APP](https://www.loom.com/share/a913ac45a6ad4698ae5a4bffeb5d17c7)
